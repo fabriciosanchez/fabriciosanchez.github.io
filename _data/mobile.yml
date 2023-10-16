@@ -1,0 +1,27 @@
+# Mobile menu navigation links
+- title: Home
+  url: /
+
+- title: About Me
+  url: /authors/fabricio-sanchez
+
+- title: Articles
+  url: /blog/
+
+- title: Tech
+  url: /category/technology/
+
+- title: Transformation
+  url: /category/transformation/
+
+- title: Education
+  url: /category/education/
+
+- title: Artificial Intelligence
+  url: /category/sport/
+
+- title: Cloud
+  url: /category/cloud/
+
+- title: Let's talk
+  url: /contact/

@@ -1,0 +1,45 @@
+# Navbar menu navigation links
+left:
+
+center:
+  - title: Home
+    url: /
+
+  - title: About Me
+    url: /authors/fabricio-sanchez
+
+  - title: Articles
+    url: /blog/
+
+  - title: Tech
+    url: /category/technology/
+
+  - title: Transformation
+    url: /category/transformation/
+
+  - title: Education
+    url: /category/education/
+
+  - title: Artificial Intelligence
+    url: /category/sport/
+
+  - title: Cloud
+    url: /category/cloud/
+
+  - title: Let's talk
+    url: /contact/
+
+  # - title: Pages
+  #   dropdown:
+  #     - title: Blog
+  #       url: /blog/
+  #     - title: Contact
+  #       url: /contact/
+  #     - title: Sidebar Left
+  #       url: /sidebar-left/
+  #     - title: Sidebar Right
+  #       url: /sidebar-right/
+  #     - title: 404
+  #       url: /404/
+
+right:
