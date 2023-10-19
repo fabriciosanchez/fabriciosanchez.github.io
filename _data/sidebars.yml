@@ -21,32 +21,20 @@ footer:
   - widget: links
     title: ABOUT
     links:
-      - title: "About Us"
-        url: /#/
-      - title: "Our Story"
-        url: /#/
-      - title: "Contribute"
-        url: /#/
-      - title: "Terms"
-        url: /#/
+      - title: "About Me"
+        url: /authors/fabricio-sanchez
+      - title: "Articles"
+        url: /blog/
+      - title: "Fabricio Office Hours"
+        url: https://www.youtube.com/channel/UC6il5eEbwInXJ8X3Ip7QMQw
+      - title: "Cloud Casters (pt-br)"
+        url: https://cloudcasters.io
       - title: "Contact"
         url: /contact/
 
-  - widget: links
-    title: PRODUCTS
-    links:
-      - title: "Advertising"
-        url: /#/
-      - title: "Featured Story"
-        url: /#/
-      - title: "Donations"
-        url: /#/
-      - title: "Charity"
-        url: /#/
-
   - widget: categories
     title: CATEGORIES
-    count: 5
+    count: 7
 
   - widget: authors
     title: CONTRIBUTORS

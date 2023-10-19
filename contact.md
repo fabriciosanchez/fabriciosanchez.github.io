@@ -1,9 +1,9 @@
 ---
-title: Formspree Contact Form
+title: Let's talk
 permalink: /contact/
 sidebar: none
 ---
 
-The they'd phase ready well, do word high from the answering I cognitive different the once it I design especially design the they. Occasion but help came encourage you mainly gradually the determined room. Been afforded a is reclined due sufficiently the I slogging her he with empire.
+I'm always looking for ways to improve this website and its content, so your feedback is invaluable to me. I'm also interested in hearing about your own experiences and perspectives on a variety of topics. Just drop me a message through the form below and I will be in touch soon.
 
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" %}
+{% include formspree.html email="flscc2002@yahoo.com.br" redirect="/thanks/" %}
