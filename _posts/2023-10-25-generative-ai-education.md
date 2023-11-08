@@ -13,13 +13,15 @@ More than that. Even the sales teams of those cloud providers didn’t understan
 
 Why am I saying all this? Because we’re on the Edge of a new market shift and its name is Generative AI (a subarea of Artificial Intelligence) this is going to put the market upside down once again and that necessarily means that our mental model will need to shift (again) with it.
 
-We’re living the convergence of computational power (provided by the cloud), maturity of AI (specially GenAI) as a technology reachable to every human being, API economy as a workable business model and industry knowledge. How exciting is this?!
+We’re living the convergence of computational power (provided by the cloud), maturity of AI (specially GenAI) as a technology reachable to every human being, API economy as a workable business model and industry knowledge. How exciting is this?! Additionally, I discuss this topic on below's video as well.
+
+<iframe width="780" height="400" src="https://www.youtube.com/embed/H8S-UEA4Lx4?si=fCfZyqx4ro1YqTFy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Why Generative AI is the shift and not AI as a whole?
 
 Well, you might have heard that already but it is never too much remembering that Artificial Intelligence has been there for a while. We have actually used it on a daily-basis for years already (who here has never translated a sentence in Google Translator, for instance?). However, despite all the efforts of these big companies over the years on trying to ship that technology more broadly, it didn’t seem to be something that the market was aiming for and most importantly, was willing to invest on.
 
-Well, then ChatGPT happened and suddenly people started to realize that now machines could really generate new and very, very accurate responses to problems of all sorts: STEM, history, languages. Scarcely good answers and that caught the attention of the market.
+Well, then ChatGPT happened and suddenly people started to realize that now machines could really generate new and very, very accurate responses to problems of all sorts: STEM, history, languages. Scarely good answers and that caught the attention of the market.
 
 When I think about “why” cloud suddenly became a thing in the market in 2008, it is easy to understand the huge benefits promised by it: paying only for what its been used, automation, SLA levels that less the 5% of the organizations globally would dream about, focus on the solution and not in the infra. It is a lot, especially considering the complexity and how expensive hardware and software was at that point. Not to count aspects that would directly impact the business model and competitiveness of companies like faster Time-to-Market (TTM), for instance.
 
