@@ -24,7 +24,7 @@ disqus:
 instagram_accesstoken: 
 
 footer:             # Default footer image settings
-  copyright:        Fabricio Sanchez - All rights reserved. Gentle hosted by <a href='https://github.com' target='_blank' >Github Pages</a>.
+  copyright:        Fabricio Sanchez - All rights reserved. Gently hosted by <a href='https://github.com' target='_blank' >Github Pages</a>.
 
 # navbar settings
 navbar_primary:
