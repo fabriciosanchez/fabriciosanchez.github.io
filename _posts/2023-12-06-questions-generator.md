@@ -33,6 +33,8 @@ Keeping in mind that this was just a simple demo about possibilities, I wanted t
 
 {% include image.html img="../assets/img/questions-generator-workflow.jpg" alt="Basic workflow for questions generator app" lightbox="true" caption="Basic workflow for questions generator app" align="center" %}
 
+<iframe width="780" height="400" src="https://www.youtube.com/embed/JY3OWz6XbrU?si=fDPv8LO9umybAQ6P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Very simple and straightforward, right? I mean, it is nothing but a web application that reacts upon receiving an input. The input in this case is a complete full book or article or just a piece of meaningful text, like a paragraph or group of paragraphs. Couldn't be simpler.
 
 Application's architecture is also very simple. It is a Node.js-based web application that directly communicates via HTTP with AI Model's API in Vertex AI on Google Cloud. The more detailed architecture can be seen through the image below.
