@@ -3,10 +3,10 @@
     <a class="uk-logo" href="{{ "/" | relative_url }}">
       {% if site.logo_image.light or site.logo_image.dark %}
         {% if site.logo_image.light %}
-          <img class="uk-logo-inverse" src="{{ site.uploads | absolute_url }}{{ site.logo_image.light }}" alt="{{ site.title }}">
+          <img class="uk-logo-inverse" src="{{ site.baseurl | append: site.uploads }}{{ site.logo_image.light }}" alt="{{ site.title }}">
         {% endif %}
         {% if site.logo_image.dark %}
-          <img src="{{ site.uploads | absolute_url }}{{ site.logo_image.dark }}" alt="{{ site.title }}">
+          <img src="{{ site.baseurl | append: site.uploads }}{{ site.logo_image.dark }}" alt="{{ site.title }}">
         {% endif %}
       {% else %}
         {{ site.title }}

@@ -15,7 +15,7 @@
     <div class="uk-width-1-4">
     {% if author.image %}
         <div class="uk-text-center">
-            <img class="uk-border-circle avatar" src="{% if author.image contains 'http' %}{{ author.image }}{% else %}{{ site.uploads | absolute_url }}{{ author.image }}{% endif %}">
+            <img class="uk-border-circle avatar" src="{% if author.image contains 'http' %}{{ author.image }}{% else %}{{ site.baseurl | append: site.uploads }}{{ author.image }}{% endif %}">
         </div>
     {% endif %}
     </div>

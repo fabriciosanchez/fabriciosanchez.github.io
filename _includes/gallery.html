@@ -2,7 +2,7 @@
 <div class="uk-child-width-1-2@s uk-child-width-1-{{ cols }}@m" data-uk-grid>
   {% for image in site.static_files %}
       {% if image.path contains include.gallery %}
-          <div><img src="{{ image.path | absolute_url }}" alt="{{ image.basename | replace: '_', ' ' | capitalize }}"></div>
+          <div><div><img src="{{ image.path | relative_url }}" alt="{{ image.basename | replace: '_', ' ' | capitalize }}"></div></div>
       {% endif %}
   {% endfor %}
 </div>
