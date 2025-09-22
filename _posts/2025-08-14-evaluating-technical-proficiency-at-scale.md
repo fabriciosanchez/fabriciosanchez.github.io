@@ -230,7 +230,7 @@ Among the examples we use PubSub for are: processing reading audio from students
 
 AIRA is now being used by several customers (both in public and private sectors) in Latin America. State of Parana in Brazil was the very first government agency interested on working with Google Cloud engineers to tackle the issue posted in this article. 
 
-The results were very satisfactory and they have now rolled out the solution to the entire state. The <a href="https://cloud.google.com/customers/intl/pt-br/seed-pr?hl=pt-BR" target="_blank" style="color: #000;"><b>success case</b></a> (in Brazilian-portuguese) was published by Google Cloud recently.
+The results were very satisfactory and they have now rolled out the solution to the entire state. The <a href="https://cloud.google.com/customers/intl/pt-br/seed-pr?hl=pt-BR" target="_blank" style="color: blue;"><b>success case</b></a> (in Brazilian-portuguese) was published by Google Cloud recently.
 
 What we've learned after months of the solution in producttion with customers like Parana State is that, this detailed, objective data can really be transformative. That's because it allows an educator to see, for example, that a particular student consistently struggles with words containing a specific vowel digraph or has a slow reading pace that impedes comprehension. This insight enables the creation of hyper-targeted interventions. Instead of generic reading practice, the educator can assign specific phonics drills or fluency exercises that address the student's precise area of weakness, making instructional time dramatically more effective.
 
