@@ -80,11 +80,11 @@ The greatest strength of AI in this context is its ability to decouple high-qual
 
 This convergence (powerfull AI models + computational power + modularized architecture + affordable costs) has never happened before and it is our absolute duty to take advantage of it and create something that can help fight illiteracy at scale.
 
-## Introducing an AI-based experiment: AIRA
+## Introducing an AI-based experiment for fighting illiteracy: AIRA
 
 While the general-purpose AI tools available today offer tremendous promise, the future of AI in literacy education lies in specialized solutions designed for specific pedagogical tasks. 
 
-A prime example of this next wave of innovation is the Artificial Intelligence Reading Assessor, or just **AIRA**, an <a href="https://github.com/googlecloudplatform/aira" target="_blank" style="color: blue;">open-source</a> experiment developed by Google Cloud Education Engineers. AIRA provides a powerful glimpse into how data-driven AI can transform literacy instruction from a process of broad remediation into one of precise, targeted intervention.
+A prime example of this next wave of innovation is the Artificial Intelligence Reading Assessor, or just **AIRA**, an <a href="https://github.com/googlecloudplatform/aira" target="_blank" style="color: blue;">open-source</a> experiment/demo developed by Google Cloud Education Engineers. AIRA provides a powerful glimpse into how data-driven AI can transform literacy instruction from a process of broad remediation into one of precise, targeted intervention.
 
 ![AIRA dashboard example](../assets/img/aira-dashboard-2.png)
 
@@ -94,7 +94,7 @@ Originally, AIRA was designed to help organizations to assess reading gaps at sc
 
 However, as we delved in more use cases directly connected to illiteracy it became clear to us that small adjustments on the "judgment" engine of the service would allow it to evaluate much more than just reading. Among other things it could evaluate logic on rationalizing situations, writing, problem solving capacity, and more. So, we did!
 
-As of today, AIRA is a complete solution capable evaluating multidimensional aspects of a person's profile and generate personalized evaluation and feedback (directly to the student or at the organizational level) on top of that data produced.
+As of today, AIRA looks more like a comprehensive solution capable evaluating multidimensional aspects of a person's profile and generate personalized evaluation and feedback (directly to the student or at the organizational level) on top of that data produced.
 
 It has also been used as a complimentary solution to [**Read Along**](https://readalong.google.com/) customers. That's because while Read Along focused more on students practicing reading on their own, AIRA can assess the effectiveness and reading progress of that process.
 
