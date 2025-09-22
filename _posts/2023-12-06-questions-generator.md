@@ -2,7 +2,6 @@
 title: Building a questions generator app with Gen AI
 image: ../assets/img/post-questions-generator.png
 categories: [technology, education, artificial intelligence]
-tags: [featured]
 hidden: false
 author: fabricio
 ---
