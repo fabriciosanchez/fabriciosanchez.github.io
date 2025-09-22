@@ -84,7 +84,9 @@ This convergence (powerfull AI models + computational power + modularized archit
 
 While the general-purpose AI tools available today offer tremendous promise, the future of AI in literacy education lies in specialized solutions designed for specific pedagogical tasks. 
 
-A prime example of this next wave of innovation is the Artificial Intelligence Reading Assessor, or just **AIRA**, an <a href="https://github.com/googlecloudplatform/aira" target="_blank" style="color: blue;">open-source</a> experiment/demo developed by Google Cloud Education Engineers. AIRA provides a powerful glimpse into how data-driven AI can transform literacy instruction from a process of broad remediation into one of precise, targeted intervention.
+A prime example of this next wave of innovation is the experiment called Artificial Intelligence Reading Assessor, or just **AIRA**, which an <a href="https://github.com/googlecloudplatform/aira" target="_blank" style="color: blue;"><b>open-source version</b></a> developed by Google Cloud Education Engineers (in which I had the pleasure to be deeply involved with) is publicly available. 
+
+AIRA provides a powerful glimpse into how data-driven AI can transform literacy instruction from a process of broad remediation into one of precise, targeted intervention.
 
 ![AIRA dashboard example](../assets/img/aira-dashboard-2.png)
 
@@ -233,6 +235,8 @@ AIRA is now being used by several customers (both in public and private sectors)
 The results were very satisfactory and they have now rolled out the solution to the entire state. The <a href="https://cloud.google.com/customers/intl/pt-br/seed-pr?hl=pt-BR" target="_blank" style="color: blue;"><b>success case</b></a> (in Brazilian-portuguese) was published by Google Cloud recently.
 
 What we've learned after months of the solution in producttion with customers like Parana State is that, this detailed, objective data can really be transformative. That's because it allows an educator to see, for example, that a particular student consistently struggles with words containing a specific vowel digraph or has a slow reading pace that impedes comprehension. This insight enables the creation of hyper-targeted interventions. Instead of generic reading practice, the educator can assign specific phonics drills or fluency exercises that address the student's precise area of weakness, making instructional time dramatically more effective.
+
+Also, when it comes to adults, the benefits of solutions like AIRA are that they allow institutions to understand deeply and at scale where individuals stand regarding logic, reading, problem solving, and so on. Among many other things, a lack of proficiency in these areas has a direct impact on student dropout rates from online learning platforms, for instance.
 
 ## Next steps
 
