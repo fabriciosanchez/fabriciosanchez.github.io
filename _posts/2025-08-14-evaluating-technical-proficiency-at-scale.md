@@ -210,7 +210,7 @@ Analytical data gravitates towards <a href="https://cloud.google.com/bigquery" t
 
 Agents and other AI-based functionalities implemented with the tool that look up to the generated analytical data to get trained or executed are also relying in Big Query.
 
-> <a href="https://github.com/googlecloudplatform/education-data-platform" target="_blank">Education Data Platform (EDP)</a> is an open-source enterprise-grade data platform with pre-made connectors for Education's common platforms in Education that make it easier for organizations to spin up these types of environments. It brings everything in one single place (repo) to deploy and use  that infrastructure. Because some customers have EDP spun up alongside AIRA, the architecture above also contemplates that integration.
+> <a href="https://github.com/googlecloudplatform/education-data-platform" target="_blank" style="color: #000;">Education Data Platform (EDP)</a> is an open-source enterprise-grade data platform with pre-made connectors for Education's common platforms in Education that make it easier for organizations to spin up these types of environments. It brings everything in one single place (repo) to deploy and use  that infrastructure. Because some customers have EDP spun up alongside AIRA, the architecture above also contemplates that integration.
 
 ### Vertex AI
 
