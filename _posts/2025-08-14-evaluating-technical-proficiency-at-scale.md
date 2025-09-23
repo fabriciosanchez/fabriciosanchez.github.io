@@ -64,7 +64,7 @@ However, the struggle continues. Why? Well, mainly because despte all the effort
 * Passive learning: Emphasis on rote memorization over critical thinking and problem-solving.
 * Inadequate assessment: Standardized tests often fail to measure practical skills and real-world literacy.
 
-Today, however, we stand at the cusp of a technological revolution that promises to rewrite the rules of literacy instruction. Artificial Intelligence associated with the computational power of cloud computing platforms like [Google Cloud](https://cloud.google.com/) and others is emerging as a powerful force multiplier, offering personalized, <u>**scalable**</u>, and accessible solutions that were unimaginable just a few years ago.
+Today, however, we stand at the cusp of a technological revolution that promises to rewrite the rules of literacy instruction. Artificial Intelligence associated with the computational power of cloud computing platforms like [Google Cloud](https://cloud.google.com/) and others is emerging as a powerful force multiplier, offering personalized, <u><b>scalable</b></u>, and accessible solutions that were unimaginable just a few years ago.
 
 AI directly addresses the core weaknesses of the traditional model. It is not a replacement for human teachers (teachers, it won't happen, rest assured) but rather a suite of powerful tools that can augment their efforts and reach learners who have been left behind.
 
