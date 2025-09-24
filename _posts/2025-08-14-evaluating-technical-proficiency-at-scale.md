@@ -255,4 +255,4 @@ If you are more like a podcast person, you can listen to a conversation based on
     Your browser does not support the audio element.
 </audio>
 
-* If you prefer to listen to this later, you can <a href="../assets/audio/Podcast_The_Silent_Crisis__How_AI_Is_Solving_Functional_Illiteracy_and_.mp4" style="color: blue;" target="_self"><b>download this episode</b></a>.
+* If you prefer to listen to this later, you can <a href="../assets/audio/Podcast_The_Silent_Crisis__How_AI_Is_Solving_Functional_Illiteracy_and_.mp4" style="color: blue;" target="_blank"><b>download this episode</b></a>.
