@@ -246,3 +246,11 @@ If you like the idea AIRA brings, you should feel empowered to:
 * If you have an active Google Cloud account, to deploy and play with it.
 * If you see applicability of the solution in your context but is not so sure about how to put this to work in your organization, make sure to reach out to your Google Cloud representative. They will know how to best direct you to the best resources.
 * Directly contribute with the project by sending your Pull Requests direct into the repository.
+
+## Podcast discussing this article
+If you are more like a podcast person, you can listen to a conversation based on this article (powered by Google NotebookLM).
+
+<audio controls preload>
+    <source src="../assets/audio/Podcast_The_Silent_Crisis__How_AI_Is_Solving_Functional_Illiteracy_and_.mp4" type="audiompeg">
+    Your browser does not support the audio element.
+</audio>
