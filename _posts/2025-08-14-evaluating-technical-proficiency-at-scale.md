@@ -251,6 +251,6 @@ If you like the idea AIRA brings, you should feel empowered to:
 If you are more like a podcast person, you can listen to a conversation based on this article (powered by Google NotebookLM).
 
 <audio controls preload>
-    <source src="../assets/audio/Podcast_The_Silent_Crisis__How_AI_Is_Solving_Functional_Illiteracy_and_.mp4" type="audiompeg">
+    <source src="../assets/audio/Podcast_The_Silent_Crisis__How_AI_Is_Solving_Functional_Illiteracy_and_.mp4" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
