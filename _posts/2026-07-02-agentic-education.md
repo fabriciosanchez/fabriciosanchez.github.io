@@ -25,7 +25,7 @@ Over the last few months I've been having deep conversations with educational or
 
 To understand the impact of agents, we first need to define what they are. I know I might be risking being redundant here since this is a blog post about agentic education, but I wanted to start by defining what I mean by agents placing it in the context of education.
 
-Over the last three years, most educational institutions (EdTechs included) that proudly claimed they were "using AI" were actually just deploying basic wrappers. A student types a question about math, a Large Language Model (LLM) spits out a response, and the interaction ends. While this is helpful (and certainly beats waiting days for a response), it is fundamentally **passive**, disconnected from the rest of the learning ecosystem and highly reliant on the student knowing exactly what to ask.
+Over the last three years, most educational institutions (EdTechs included) proudly claimed they were "using AI". In reallity what they were actually doing was just deploying basic wrappers. A student types a question about math, a Large Language Model (LLM) spits out a response, and the interaction ends. While this is helpful (and certainly beats waiting days for a response), it is fundamentally **passive**, disconnected from the rest of the learning ecosystem and highly reliant on the student knowing exactly what to ask.
 
 An AI Agent is completely different. 
 
