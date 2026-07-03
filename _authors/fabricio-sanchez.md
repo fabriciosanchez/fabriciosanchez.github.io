@@ -2,7 +2,7 @@
 title:          Fabricio Sanchez
 username:       fabricio
 default:        true
-image:          ../assets/img/fabricio-512.png
+image:          ../assets/img/fabricio-avatar-black-white.png
 bio:            Principal Architect Lead at Google. Ben’s daddy and Angie’s husband. Crazy about tech, books, cinema, music and tennis. Writter and Podcaster.
 email:          me@fabriciosanchez.com
 website:        https://fabriciosanchez.com
