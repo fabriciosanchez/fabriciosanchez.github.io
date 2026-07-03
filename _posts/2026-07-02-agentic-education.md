@@ -114,7 +114,7 @@ We need to invest heavily in training teachers to act as "co-pilot" alongside AI
 
 The shift toward agentic education is not a matter of "if," but "when". In fact, the shift is already happening and its impact has been immense already.
 
-The computational power is here also here. The models are getting smarter and more cost-effective by the day. What remains is the engineering and structural work: organizing our data, building robust multi-agent systems, and working hand-in-hand with schools to design safe, pedagogical tools.
+The computational power is also here. The models are getting smarter and more cost-effective by the day. What remains is the engineering and structural work: organizing our data, building robust multi-agent systems, and working hand-in-hand with schools to design safe, pedagogical tools.
 
 If you are an engineer, a product manager, or an educational leader looking to build this future but don't know exactly how to start, here are three practical recommendations based on previous experiencies in this arena:
 
