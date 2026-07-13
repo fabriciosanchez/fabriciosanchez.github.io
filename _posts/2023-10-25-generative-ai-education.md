@@ -2,7 +2,6 @@
 title: Generative AI applied to Education - The big shift
 image: ../assets/img/neural-network-google-cloud.png
 categories: [technology, education]
-tags: [featured]
 hidden: false
 author: fabricio
 ---

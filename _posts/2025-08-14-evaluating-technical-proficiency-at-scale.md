@@ -2,7 +2,6 @@
 title: "Fighting Functional Illiteracy at scale"
 image: ../assets/img/tech-proficiency-1200x800.png
 categories: [technology, education, artificial intelligence]
-tags: [featured]
 hidden: false
 author: fabricio
 ---
