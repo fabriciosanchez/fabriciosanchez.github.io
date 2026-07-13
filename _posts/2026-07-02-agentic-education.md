@@ -2,7 +2,7 @@
 title: "The Agentic Education: What Stands Between Us and the Future of Teaching and Learning"
 image: ../assets/img/agentic-education-header.png
 categories: [technology, education, artificial intelligence, transformation]
-tags: [featured]
+tags: [spotlight]
 hidden: false
 author: fabricio
 ---
