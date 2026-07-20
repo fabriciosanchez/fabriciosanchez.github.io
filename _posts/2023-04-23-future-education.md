@@ -2,7 +2,6 @@
 title: The future of education is digital
 image: ../assets/img/post-future-of-education-header.png
 categories: [education, technology]
-tags: [spotlight]
 hidden: true
 author: fabricio
 ---

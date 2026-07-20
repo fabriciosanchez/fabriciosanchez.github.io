@@ -2,7 +2,7 @@
 title: "The New Path for Open Innovation in Public Sector and Education"
 image: ../assets/img/open-innovation-header.png
 categories: [technology, education, artificial intelligence, transformation, cloud]
-tags: [featured]
+tags: [spotlight]
 hidden: false
 author: fabricio
 ---
