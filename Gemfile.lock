@@ -91,6 +91,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-25
+  arm64-darwin-26
   x64-unknown
   x86_64-linux
 
@@ -115,4 +116,4 @@ RUBY VERSION
    ruby 2.6.10p210
 
 BUNDLED WITH
-   2.4.20
+   2.4.22
