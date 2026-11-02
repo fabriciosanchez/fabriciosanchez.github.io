@@ -7,7 +7,9 @@ hidden: false
 author: fabricio
 ---
 
-If you have been reading my blog for a while, you might remember [an article I wrote back in 2023 about my life as a Brazilian living and working in the US](/life-usa/){:target="_blank"}. In that post, I opened up about how terrified I was when I decided to leave Microsoft after almost ten years, where I was completely adapted, comfortable, and had a solid delivery track record, to join Google Cloud back in 2021/2022. I remember walking into Google’s office in São Paulo and New York with that classic mix of excitement and deep insecurity in my stomach, wondering: *"Can I actually pull this off here?"*
+If you have been reading my blog for a while, you might remember [an article I wrote back in 2023 about my life as a Brazilian living and working in the US](/life-usa/){:target="_blank"}. In that post, I opened up about how terrified I was when I decided to leave Microsoft after almost ten years, where I was completely adapted, comfortable, and had a solid delivery track record, to join Google Cloud back in 2021. 
+
+I remember walking into Google’s office in São Paulo and New York with that classic mix of excitement and deep insecurity in my stomach, wondering: *"Can I actually pull this off here?"*
 
 Well, fast forward five years. 
 
