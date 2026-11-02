@@ -1,5 +1,6 @@
 ---
 title: "The Agentic Education: What Stands Between Us and the Future of Teaching and Learning"
+excerpt: "Moving beyond passive chatbots, autonomous AI agents are set to redefine teaching and learning through true personalization at scale. Here is what needs to change in our data architectures, tech stacks, and mindsets to make agentic education a reality."
 image: ../assets/img/agentic-education-header.png
 categories: [technology, education, artificial intelligence, transformation]
 tags: [spotlight]

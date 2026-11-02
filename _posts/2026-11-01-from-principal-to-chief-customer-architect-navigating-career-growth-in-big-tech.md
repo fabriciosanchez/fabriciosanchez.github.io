@@ -1,8 +1,9 @@
 ---
-title: "Career Update: I'm Now a Chief Architect at Google"
+title: "I'm Now a Chief Architect at Google. Here's How I Got Here and What I Learned"
+excerpt: "After five years as a Principal Architect at Google Cloud, I was promoted to Chief Customer Architect. Here is what this transition feels like from the inside, the organizational realities of in the corporate, and some data-backed advice I relied on for breaking through the senior technical ceiling."
 image: ../assets/img/chief-customer-architect-header.jpg
 categories: [life, technology, management, architecture, cloud]
-tags: [featured, spotlight]
+tags: [featured]
 hidden: false
 author: fabricio
 ---

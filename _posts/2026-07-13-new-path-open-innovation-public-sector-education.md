@@ -1,5 +1,6 @@
 ---
 title: "The New Path for Open Innovation in Public Sector and Education"
+excerpt: "Public Sector and Education projects often start with a heavy regulatory burden that stalls innovation. Here is how combining 10x Moonshot thinking, agentic coding, Spec-Driven Development (SDD), and Agent Skills unlocks rapid prototyping without compromising compliance."
 image: ../assets/img/open-innovation-header.png
 categories: [technology, education, artificial intelligence, transformation, cloud]
 tags: [spotlight]

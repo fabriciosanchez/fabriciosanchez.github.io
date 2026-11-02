@@ -1,5 +1,6 @@
 ---
 title: "Fighting Functional Illiteracy at scale"
+excerpt: "Functional illiteracy is a hidden crisis affecting millions of people worldwide across economic, health, and civic spheres. This article explores the scale of the challenge and introduces an open-source Generative AI initiative piloted at Google Cloud to help solve it."
 image: ../assets/img/tech-proficiency-1200x800.png
 categories: [technology, education, artificial intelligence]
 tags: [spotlight]

@@ -1,5 +1,6 @@
 ---
 title: "The CTO Dilemma: Keeping the Cloud Alive While Building an Autonomous Future"
+excerpt: "As software shifts from deterministic code paths to probabilistic AI agents, technology leaders face a critical tension. Here is how CTOs and CIOs can balance core cloud stability and budgets while building an autonomous, agentic future."
 image: ../assets/img/cto-dilemma-header.jpg
 categories: [technology, artificial intelligence, cloud, management, architecture]
 tags: []

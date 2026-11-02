@@ -1,5 +1,6 @@
 ---
 title: The future of education is digital
+excerpt: "Education has historically lagged in technology investment, but the shift to digital and the rise of AI are forcing a profound transformation. Here is why enterprise data strategy and quality data are the foundation for AI-guided education."
 image: ../assets/img/post-future-of-education-header.png
 categories: [education, technology]
 hidden: true

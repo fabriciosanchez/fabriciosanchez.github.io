@@ -1,5 +1,6 @@
 ---
 title: Building a questions generator app with Gen AI
+excerpt: "True innovation in education requires empowering teachers, not just students. Here is a practical walkthrough of building a Node.js and Vertex AI web application that automatically generates assessment questions from any text."
 image: ../assets/img/post-questions-generator.png
 categories: [technology, education, artificial intelligence]
 hidden: false

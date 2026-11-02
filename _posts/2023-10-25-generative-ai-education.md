@@ -1,5 +1,6 @@
 ---
 title: Generative AI applied to Education - The big shift
+excerpt: "Much like the cloud computing revolution, Generative AI is reshaping how organizations build products and deliver value. Here is why industry-specific use cases—and a shift in business, people, and engineering mindsets—will drive its impact in Education."
 image: ../assets/img/neural-network-google-cloud.png
 categories: [technology, education]
 hidden: false
