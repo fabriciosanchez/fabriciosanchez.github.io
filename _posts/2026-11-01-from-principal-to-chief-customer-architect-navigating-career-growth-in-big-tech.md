@@ -1,5 +1,5 @@
 ---
-title: "A New Career Milestone Ahead: Chief Customer Architect at Google"
+title: "A New Milestone: Chief Customer Architect at Google"
 image: ../assets/img/chief-customer-architect-header.jpg
 categories: [life, technology, management, architecture, cloud]
 tags: [featured, spotlight]
