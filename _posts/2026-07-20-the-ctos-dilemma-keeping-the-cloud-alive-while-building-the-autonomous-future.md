@@ -2,7 +2,7 @@
 title: "The CTO Dilemma: Keeping the Cloud Alive While Building an Autonomous Future"
 image: ../assets/img/cto-dilemma-header.jpg
 categories: [technology, artificial intelligence, cloud, management, architecture]
-tags: [featured]
+tags: []
 hidden: false
 author: fabricio
 ---
